@@ -157,7 +157,7 @@ pip install buildozer
 
 ## 技术栈
 
-Python 3 · PyQt5 · OpenCV（逐帧解码 + `QImage` 渲染）· NumPy · Kivy / KivyMD · Buildozer（Android 打包）· QThread 信号槽 · 拖拽式标注交互
+Python 3 · PyQt5 · OpenCV · NumPy · Kivy / KivyMD · Buildozer · QThread
 
 ## 说明
 
