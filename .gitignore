@@ -1,0 +1,25 @@
+# 虚拟环境（曾误把整个 venv 上传过，务必排除）
+venv/
+.venv/
+Scripts/
+pyvenv.cfg
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Buildozer 打包产物
+.buildozer/
+bin/
+
+# 媒体素材：视频与图片体积大、涉及素材版权，需自行放入
+源预制件/
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
+*.log
